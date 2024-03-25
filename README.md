@@ -6,6 +6,8 @@ Hey there 👋
 
 I’m **Hervy Qurrotul**, a GNU/Linux and data enthusiast, creative coder and self-proclaimed designer who specializes in visualization of data with Python and R.
 
-Currently i moving git hosting to [Source Hut](https://git.sr.ht/~hervyqa).
+This deprecated account, currently i moving git hosting to sourcehut
+[https://git.sr.ht/~hervyqa](https://git.sr.ht/~hervyqa).
 
-Want to know more about me? Check out my website. [https://hervyqa.dev](https://hervyqa.dev)
+Want to know more about me? Check out my
+website. [https://hervyqa.dev](https://hervyqa.dev)
