@@ -4,10 +4,11 @@
 
 Hey there 👋
 
-I’m **Hervy Qurrotul**, a GNU/Linux and data enthusiast, creative coder and self-proclaimed designer who specializes in visualization of data with Python and R.
+I’m **Hervy Qurrotul**, a GNU/Linux and data enthusiast, creative coder
+and self-proclaimed designer who specializes in visualization of data with
+Python and R.
 
-This deprecated account, currently i moving git hosting to sourcehut
+1. This **deprecated account**, currently i moving git hosting to sourcehut
 [https://git.sr.ht/~hervyqa](https://git.sr.ht/~hervyqa).
-
-Want to know more about me? Check out my
+1. Want to know more about me? Check out my
 website. [https://hervyqa.dev](https://hervyqa.dev)
