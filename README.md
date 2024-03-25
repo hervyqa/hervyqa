@@ -4,11 +4,21 @@
 
 Hey there 👋
 
-I’m **Hervy Qurrotul**, a GNU/Linux and data enthusiast, creative coder
+I’m **Hervy Qurrotul**, Data enthusiast, creative coder, designer, activist,
 and self-proclaimed designer who specializes in visualization of data with
 Python and R.
 
-1. This **deprecated account**, currently i moving git hosting to sourcehut
+Want to know more about me? Check out my
+website (in bahasa). [https://hervyqa.dev](https://hervyqa.dev)
+
+### Repository
+
+- [Website](https://git.sr.ht/~hervyqa/website): Learn about data science
+  and statistics in bahasa.
+- [Swayhome](https://git.sr.ht/~hervyqa/swayhome): Nixos configuration,
+  sway and home-manager.
+
+### Information!
+
+- This **deprecated account**, currently i moving git hosting to sourcehut
 [https://git.sr.ht/~hervyqa](https://git.sr.ht/~hervyqa).
-1. Want to know more about me? Check out my
-website. [https://hervyqa.dev](https://hervyqa.dev)
