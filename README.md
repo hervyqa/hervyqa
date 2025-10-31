@@ -60,6 +60,7 @@ gpg --import hervyqa.asc
 [FOSS]: https://en.wikipedia.org/wiki/Free_and_open-source_software
 [GNOME Asia Summit]: https://2019.gnome.asia
 [Helix]: https://helix-editor.com
+[LangitKetujuh]: https://langitketujuh.id
 [Mastodon]: https://datasci.social/@hervyqa
 [NixOS]: https://nixos.org
 [RStudio]: https://posit.co/products/open-source/rstudio
@@ -73,7 +74,6 @@ gpg --import hervyqa.asc
 [hervyqa.asc]: https://hervyqa.dev/hervyqa.asc
 [hervyqa.dev]: https://hervyqa.dev
 [keys.openpgp.org]: https://keys.openpgp.org
-[linux]: https://en.wikipedia.org/wiki/Linux
 [linkedin.com/in/hervyqa]: https://www.linkedin.com/in/hervyqa
+[linux]: https://en.wikipedia.org/wiki/Linux
 [swayhome]: https://git.sr.ht/~hervyqa/swayhome
-
