@@ -9,7 +9,7 @@
 
 ## Profile
 
-A technical writer, software developer and has expertise in data-focused programming languages,​such as Python, R, Julia and SQL. Building [hervyqa.dev] as a personal site and simple note to learn security, privacy and scientific tips in the fields of Data Science and Artificial Intelligence (AI) with free software (Free Software). Has experience developing [Linux] based operating systems, active contribution in the Open Source and [FOSS] communities.
+A technical writer, software developer and has expertise in data-focused programming languages, such as Python, R, Julia and SQL. Building [hervyqa.dev] as a personal site and simple note to learn security, privacy and scientific tips in the fields of Data Science and Artificial Intelligence (AI) with free software (Free Software). Has experience developing [GNU/Linux] based operating systems, active contribution in the Open Source and [FOSS] communities.
 
 ## Contact
 
@@ -59,6 +59,7 @@ gpg --import hervyqa.asc
 [DeltaChat]: https://i.delta.chat/#1CE55F43B860372AC4F9EAB6D914B7D168AD0687&a=hervyqa%40disroot.org&n=hervyqa&i=V6yYcltbbnvQUv3uLkSamuGH&s=NZBYSj7jPFwLzpKkSDxtBMZO
 [FOSS]: https://en.wikipedia.org/wiki/Free_and_open-source_software
 [GNOME Asia Summit]: https://2019.gnome.asia
+[GNU/Linux]: https://langitketujuh.id
 [Helix]: https://helix-editor.com
 [LangitKetujuh]: https://langitketujuh.id
 [Mastodon]: https://datasci.social/@hervyqa
@@ -75,5 +76,4 @@ gpg --import hervyqa.asc
 [hervyqa.dev]: https://hervyqa.dev
 [keys.openpgp.org]: https://keys.openpgp.org
 [linkedin.com/in/hervyqa]: https://www.linkedin.com/in/hervyqa
-[linux]: https://en.wikipedia.org/wiki/Linux
 [swayhome]: https://git.sr.ht/~hervyqa/swayhome
