@@ -9,7 +9,7 @@
 
 ## Profile
 
-A technical writer, software developer and has expertise in data-focused programming languages, such as Python, R, Julia and SQL. Building [hervyqa.dev] as a personal site and simple note to learn security, privacy and scientific tips in the fields of Data Science and Artificial Intelligence (AI) with Free Software. Has experience developing [GNU/Linux] based operating systems, active contribution in the Open Source and [FOSS] communities.
+A technical writer, software developer and has expertise in data-focused programming languages, such as **Python**, **R**, **Julia** and **SQL**. Building [hervyqa.dev] as a personal site and simple note to learn security, privacy and scientific tips in the fields of **Data Science** and **Artificial Intelligence** (AI) with **Free Software**. Has experience developing [**GNU/Linux**] based operating systems, active contribution in the **Open Source** and [**FOSS**] communities.
 
 ## Contact
 
