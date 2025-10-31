@@ -1,6 +1,8 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=18A3E6)](https://t.me/hervyqa)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-Profile-informational?style=flat&logo=mastodon&logoColor=white&color=6364FF)](https://datasci.social/@hervyqa)
 [![Bluesky Badge](https://img.shields.io/badge/Bluesky-Profile-informational?style=flat&logo=bluesky&logoColor=white&color=1CA2F1)](https://bsky.app/profile/hervyqa.bsky.social)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hervyqa/)
+[![SourceHut Badge](https://img.shields.io/badge/SourceHut-Profile-informational?style=flat&logo=sourcehut&logoColor=white&color=000000)](https://sr.ht/~hervyqa)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hervyqa)
 
 Hey there 👋
 
