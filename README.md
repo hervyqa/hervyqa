@@ -1,5 +1,5 @@
-[![Visits Badge](https://badges.pufler.dev/visits/hervyqa/hervyqa)](https://hervyqa.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/hervyqa)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=18A3E6)](https://t.me/hervyqa)
+[![Bluesky Badge](https://img.shields.io/badge/Bluesky-Profile-informational?style=flat&logo=bluesky&logoColor=white&color=1CA2F1)](https://bsky.app/profile/hervyqa.bsky.social)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hervyqa/)
 
 Hey there 👋
