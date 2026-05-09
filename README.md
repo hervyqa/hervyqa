@@ -65,7 +65,7 @@ gpg --recv-keys D7B52C04D9B40738
 [NixOS]: https://nixos.org
 [RStudio]: https://posit.co/products/open-source/rstudio
 [SimpleX Chat]: https://simplex.chat
-[SimpleX]: https://smp10.simplex.im/a#lqSxotmiIsDGyOFqc9hIWdBH6vrfYSvMAjwzz2X0gko
+[SimpleX]: https://smp19.simplex.im/a#VSa1G4tFNkwv_MzzCPmD--AzAT4bfNjKhHVcj57V1JA
 [Spyder]: https://www.spyder-ide.org
 [SwayWM]: https://swaywm.org
 [Vim]: https://www.vim.org
