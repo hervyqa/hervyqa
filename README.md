@@ -25,7 +25,7 @@ such as Mastodon, Bluesky, and Lemmy, but for direct communication I
 prefer SimpleX Chat or Signal.
 
 - Email: [hervyqa@disroot.org](https://hervyqa.site/link/email)
-- Direct Message: {{ go(id="sxc") }} or {{ go(id="sgnl") }}
+- Direct Message: [SimpleX] or [Signal]
 - Mastodon: [datasci.social/@hervyqa](https://hervyqa.site/link/mstd)
 - Bluesky: [hervyqa.bsky.social](https://hervyqa.site/link/bsky)
 - Lemmy: [hervyqa@lemmy.org](https://hervyqa.site/link/lemmy)
@@ -91,3 +91,5 @@ and various CLI/TUI utilities.
 
 [obsd]: https://wwww.openbsd.org
 [obsdc]: https://git.sr.ht/~hervyqa/obsdc
+[SimpleX]: https://hervyqa.srht.site/link/sxc
+[Signal]: https://hervyqa.srht.site/link/sgnl
