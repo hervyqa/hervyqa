@@ -1,77 +1,93 @@
-[![Mastodon Badge](https://img.shields.io/badge/Mastodon-Profile-informational?style=flat&logo=mastodon&logoColor=white&color=6364FF)](https://datasci.social/@hervyqa)
-[![Bluesky Badge](https://img.shields.io/badge/Bluesky-Profile-informational?style=flat&logo=bluesky&logoColor=white&color=1CA2F1)](https://bsky.app/profile/hervyqa.bsky.social)
-[![SourceHut Badge](https://img.shields.io/badge/SourceHut-Profile-informational?style=flat&logo=sourcehut&logoColor=white&color=000000)](https://sr.ht/~hervyqa)
-
 # Profile
 
 > [!NOTE]
 > This **deprecated account**, currently i moving git hosting to
   sourcehut [https://git.sr.ht/~hervyqa](https://git.sr.ht/~hervyqa).
 
-A technical writer, software developer and has expertise in data-focused
-programming languages, such as **Python**, **R**, **Julia** and **SQL**.
-Building [hervyqa.srht.site] as a personal site and simple note to learn
-security, privacy and scientific tips in the fields of **Data Science**
-and **Artificial Intelligence** (AI) with **Free Software**. Has
-experience developing **[GNU/Linux]** based operating systems, active
-contribution in the **Open Source** and **[FOSS]** communities.
+I'm an [obsd] user, software developer, technical
+writer, and designer with a strong interest in privacy, security, and
+low-level programming on UNIX-like systems. Over the years, I've worked
+extensively with Linux and BSD operating systems, including developing
+and maintaining a Linux-based distribution for more than a decade.
+
+I actively contribute to Free and Open Source Software (FOSS) projects
+and enjoy exploring minimalist, keyboard-driven workflows.
+
+> I am not here because I am different.
+> I am here because I exist.
+>
+> — <cite>Hervy Qurrotul A.</cite>
 
 ## Contact
 
-- **Email**: `hervyqa+contact{at}disroot{dot}org`
-- **Chat**: Available via [SimpleX] or via [Email].
-- **Address**: Mojokerto, Jawa timur, Indonesia
-- **Git Forge**: [git.sr.ht/~hervyqa] & [codeberg.org/hervyqa]
-- **GPG Key**: [hervyqa.asc] | **ID**: `0xD7B52C04D9B40738`
-- **Fingerprint**: `5A13 1FCD DAC2 8768 02F6 31D1 D7B5 2C04 D9B4 0738`
+Email is the best way to reach me. I occasionally use social platforms
+such as Mastodon, Bluesky, and Lemmy, but for direct communication I
+prefer SimpleX Chat or Signal.
 
-You can download my public key from the keyserver.
+- Email: [hervyqa@disroot.org](https://hervyqa.site/link/email)
+- Direct Message: {{ go(id="sxc") }} or {{ go(id="sgnl") }}
+- Mastodon: [datasci.social/@hervyqa](https://hervyqa.site/link/mstd)
+- Bluesky: [hervyqa.bsky.social](https://hervyqa.site/link/bsky)
+- Lemmy: [hervyqa@lemmy.org](https://hervyqa.site/link/lemmy)
 
-## Keyserver
+> [!WARNING]
+> I no longer use Google services, WhatsApp, Facebook, Instagram,
+> LinkedIn, Reddit, or Matrix due to concerns regarding privacy, data
+> ownership, and platform policies.
 
-### Keys OpenPGP
+## Encrypted Email
 
-[5A13 1FCD DAC2 8768 02F6 31D1 D7B5 2C04 D9B4 0738](https://keys.openpgp.org/vks/v1/by-fingerprint/5A131FCDDAC2876802F631D1D7B52C04D9B40738)
+I strongly encourage the use of OpenPGP (GPG) for email communication.
+Unencrypted email offers little privacy, while encryption helps ensure
+that messages can only be read by their intended recipients.
 
-### Terminal
+You can find my public key and instructions for importing and verifying
+it below.
 
-``` {.bash filename="Terminal"}
+- Key file: [hervyqa.key](https://hervyqa.srht.site/hervyqa.key).
+- Key ID: `0xD7B52C04D9B40738`.
+- Fingerprint: `5A13 1FCD DAC2 8768 02F6 31D1 D7B5 2C04 D9B4 0738`.
+
+<details>
+<summary>How to import key and verify.</summary>
+
+Import the key from a keyserver:
+
+```bash
 gpg --recv-keys D7B52C04D9B40738
 ```
 
+Or download and import manually:
+
+```bash
+wget https://hervyqa.srht.site/hervyqa.key
+gpg --import hervyqa.key
+```
+
+You can verify the fingerprint after import with:
+
+```bash
+gpg --fingerprint D7B52C04D9B40738
+```
+</details>
+
 ## Repository
 
-- [Website](https://git.sr.ht/~hervyqa/website): Learn about data science
-  and statistics in bahasa.
-- [Swayhome](https://git.sr.ht/~hervyqa/swayhome): Nixos configuration,
-  sway and home-manager.
+Most of my open-source work is hosted on SourceHut. While I still
+maintain accounts on other platforms, SourceHut is currently my
+preferred git forge.
 
-## Software
+- Sourcehut: [https://git.sr.ht/~hervyqa](https://git.sr.ht/~hervyqa)
 
-  - Dotfiles: [swayhome], [dotfire].
-  - Operating system: [NixOS], [LangitKetujuh].
-  - Text editor: [Helix], [Vim].
-  - IDE: [Spyder] for Python, [RStudio] for R.
-  - Window manager: [SwayWM].
-  - Email client: [Aerc].
-  - Chat apps: [SimpleX Chat].
+## Desktop setup
 
-[Aerc]: https://aerc-mail.org
-[Email]: mailto:hervyqa+contact@disroot.org
-[FOSS]: https://en.wikipedia.org/wiki/Free_and_open-source_software
-[GNU/Linux]: https://langitketujuh.id
-[Helix]: https://helix-editor.com
-[LangitKetujuh]: https://langitketujuh.id
-[NixOS]: https://nixos.org
-[RStudio]: https://posit.co/products/open-source/rstudio
-[SimpleX Chat]: https://simplex.chat
-[SimpleX]: https://smp19.simplex.im/a#VSa1G4tFNkwv_MzzCPmD--AzAT4bfNjKhHVcj57V1JA
-[Spyder]: https://www.spyder-ide.org
-[SwayWM]: https://swaywm.org
-[Vim]: https://www.vim.org
-[codeberg.org/hervyqa]: https://codeberg.org/hervyqa
-[dotfire]: https://git.sr.ht/~hervyqa/dotfire
-[git.sr.ht/~hervyqa]: https://git.sr.ht/~hervyqa
-[hervyqa.asc]: https://keys.openpgp.org/vks/v1/by-fingerprint/5A131FCDDAC2876802F631D1D7B52C04D9B40738
-[hervyqa.srht.site]: https://hervyqa.srht.site
-[swayhome]: https://git.sr.ht/~hervyqa/swayhome
+My workflow is heavily keyboard-driven and centered around CLI and TUI
+applications. While my [obsdc] dotfiles setup may not be
+the most practical solution for every use case, it is the environment I
+enjoy working in.
+
+My daily tools include OpenBSD, SwayWM, Git, Aerc, Vim, Helix, Chawan,
+and various CLI/TUI utilities.
+
+[obsd]: https://wwww.openbsd.org
+[obsdc]: https://git.sr.ht/~hervyqa/obsdc
