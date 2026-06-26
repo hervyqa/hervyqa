@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > This **deprecated account**, currently i moving git hosting to
-  sourcehut [https://git.sr.ht/~hervyqa](https://git.sr.ht/~hervyqa).
+  sourcehut [git.sr.ht/~hervyqa]
 
-I'm an [obsd] user, software developer, technical
+I'm an [OpenBSD] user, software developer, technical
 writer, and designer with a strong interest in privacy, security, and
 low-level programming on UNIX-like systems. Over the years, I've worked
 extensively with Linux and BSD operating systems, including developing
@@ -24,11 +24,11 @@ Email is the best way to reach me. I occasionally use social platforms
 such as Mastodon, Bluesky, and Lemmy, but for direct communication I
 prefer SimpleX Chat or Signal.
 
-- Email: [hervyqa@disroot.org](https://hervyqa.site/link/email)
+- Email: [hervyqa@disroot.org]
 - Direct Message: [SimpleX] or [Signal]
-- Mastodon: [datasci.social/@hervyqa](https://hervyqa.site/link/mstd)
-- Bluesky: [hervyqa.bsky.social](https://hervyqa.site/link/bsky)
-- Lemmy: [hervyqa@lemmy.org](https://hervyqa.site/link/lemmy)
+- Mastodon: [datasci.social/@hervyqa]
+- Bluesky: [hervyqa.bsky.social]
+- Lemmy: [hervyqa@lemmy.org]
 
 > [!WARNING]
 > I no longer use Google services, WhatsApp, Facebook, Instagram,
@@ -44,7 +44,7 @@ that messages can only be read by their intended recipients.
 You can find my public key and instructions for importing and verifying
 it below.
 
-- Key file: [hervyqa.key](https://hervyqa.srht.site/hervyqa.key).
+- Key file: [hervyqa.key]
 - Key ID: `0xD7B52C04D9B40738`.
 - Fingerprint: `5A13 1FCD DAC2 8768 02F6 31D1 D7B5 2C04 D9B4 0738`.
 
@@ -77,7 +77,7 @@ Most of my open-source work is hosted on SourceHut. While I still
 maintain accounts on other platforms, SourceHut is currently my
 preferred git forge.
 
-- Sourcehut: [https://git.sr.ht/~hervyqa](https://git.sr.ht/~hervyqa)
+- Sourcehut: [git.sr.ht/~hervyqa]
 
 ## Desktop setup
 
@@ -89,7 +89,13 @@ enjoy working in.
 My daily tools include OpenBSD, SwayWM, Git, Aerc, Vim, Helix, Chawan,
 and various CLI/TUI utilities.
 
-[obsd]: https://wwww.openbsd.org
+[OpenBSD]: https://wwww.openbsd.org
 [obsdc]: https://git.sr.ht/~hervyqa/obsdc
 [SimpleX]: https://hervyqa.srht.site/link/sxc
 [Signal]: https://hervyqa.srht.site/link/sgnl
+[git.sr.ht/~hervyqa]: https://git.sr.ht/~hervyqa
+[hervyqa@disroot.org]: https://hervyqa.site/link/email
+[datasci.social/@hervyqa]: https://hervyqa.site/link/mstd
+[hervyqa.bsky.social]: https://hervyqa.site/link/bsky
+[hervyqa@lemmy.org]: https://hervyqa.site/link/lemmy
+[hervyqa.key]: https://hervyqa.srht.site/hervyqa.key
