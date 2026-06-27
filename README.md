@@ -44,7 +44,7 @@ that messages can only be read by their intended recipients.
 You can find my public key and instructions for importing and verifying
 it below.
 
-- Key file: [hervyqa.key]
+- Key file: [hervyqa.pgp]
 - Key ID: `0xD7B52C04D9B40738`.
 - Fingerprint: `5A13 1FCD DAC2 8768 02F6 31D1 D7B5 2C04 D9B4 0738`.
 
@@ -60,8 +60,8 @@ gpg --recv-keys D7B52C04D9B40738
 Or download and import manually:
 
 ```bash
-wget https://hervyqa.srht.site/hervyqa.key
-gpg --import hervyqa.key
+wget https://hervyqa.srht.site/hervyqa.pgp
+gpg --import hervyqa.pgp
 ```
 
 You can verify the fingerprint after import with:
@@ -98,4 +98,4 @@ and various CLI/TUI utilities.
 [datasci.social/@hervyqa]: https://hervyqa.site/link/mstd
 [hervyqa.bsky.social]: https://hervyqa.site/link/bsky
 [hervyqa@lemmy.org]: https://hervyqa.site/link/lemmy
-[hervyqa.key]: https://hervyqa.srht.site/hervyqa.key
+[hervyqa.pgp]: https://hervyqa.srht.site/hervyqa.pgp
