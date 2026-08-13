@@ -22,13 +22,15 @@ and enjoy exploring minimalist, keyboard-driven workflows.
 
 Email is the best way to reach me. I occasionally use social platforms
 such as Mastodon, Bluesky, and Lemmy, but for direct communication I
-prefer SimpleX Chat or Signal.
+prefer IRC, XMPP, SimpleX Chat or Signal.
 
 - Email: [hervyqa@disroot.org]
-- Direct Message: [SimpleX] or [Signal]
+- IRC: `hervyqa@irc.libera.chat`
+- XMPP: `hervyqa@disroot.org`
+- Private Message: [SimpleX] or [Signal]
 - Mastodon: [datasci.social/@hervyqa]
 - Bluesky: [hervyqa.bsky.social]
-- Lemmy: [hervyqa@lemmy.org]
+- Lemmy: [hervyqa@lemmy.ml]
 
 > [!WARNING]
 > I no longer use Google services, WhatsApp, Facebook, Instagram,
@@ -60,7 +62,7 @@ gpg --recv-keys D7B52C04D9B40738
 Or download and import manually:
 
 ```bash
-wget https://hervyqa.srht.site/hervyqa.pgp
+wget https://hervyqa.srht.site/pgp/hervyqa.pgp
 gpg --import hervyqa.pgp
 ```
 
@@ -97,5 +99,5 @@ and various CLI/TUI utilities.
 [hervyqa@disroot.org]: https://hervyqa.site/link/email
 [datasci.social/@hervyqa]: https://hervyqa.site/link/mstd
 [hervyqa.bsky.social]: https://hervyqa.site/link/bsky
-[hervyqa@lemmy.org]: https://hervyqa.site/link/lemmy
-[hervyqa.pgp]: https://hervyqa.srht.site/hervyqa.pgp
+[hervyqa@lemmy.ml]: https://hervyqa.site/link/lemmy
+[hervyqa.pgp]: https://hervyqa.srht.site/pgp/hervyqa.pgp
